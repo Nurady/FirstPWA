@@ -4,7 +4,7 @@ var urlsToCache = [
   '/manifest.json',
   "/icon192.png",
   "/pwa-512x512.png",
-  "/images/foto.JPG",
+  "/images/foto.jpg",
   "/images/smartcity.jpg",
   "/images/electrical.png",
   "/images/email.png",
